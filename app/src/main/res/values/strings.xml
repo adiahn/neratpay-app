@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NeratPay</string>
+    <string name="dashboard_url">https://dashboard.nerat.app</string>
+    <string name="offline_title">No Internet Connection</string>
+    <string name="offline_subtitle">Please check your internet connection and tap retry to reload the dashboard.</string>
+    <string name="btn_retry">Try Again</string>
+    <string name="exit_prompt">Press back again to exit</string>
+    <string name="file_chooser_title">Upload Document / Photo</string>
+</resources>

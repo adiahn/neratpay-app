@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="np_background">#07110A</color>
+    <color name="np_surface">#0B1711</color>
+    <color name="np_surface_alt">#122018</color>
+    <color name="np_border">#1E3228</color>
+    <color name="np_accent">#2DFF7A</color>
+    <color name="np_accent_dark">#12B85A</color>
+    <color name="np_text_primary">#E8F0EA</color>
+    <color name="np_text_secondary">#B7C8BC</color>
+    <color name="np_text_muted">#6B7F72</color>
+    <color name="np_danger">#FF6B5A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
